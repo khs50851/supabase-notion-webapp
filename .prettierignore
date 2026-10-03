@@ -1,0 +1,9 @@
+node_modules
+.next
+out
+build
+nextjs-supabase-app
+package-lock.json
+*.tsbuildinfo
+.env*
+!.env.example
